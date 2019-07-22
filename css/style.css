@@ -22,3 +22,9 @@ h1 {
     height: 100vh;
     background-size: cover;
 }
+#center-objects{
+  padding-top: 200px;
+}
+#top-objects{
+  padding-top: 200px;
+}
