@@ -36,34 +36,45 @@ body {
 }
 
 #image1 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width:200px;
+}
 #image2 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
 #image3 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
 #image4 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
 #image5 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
 #image6 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
 #image7 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
 #image8 {
-  height: 100px;
-  width: 100px;
-};
+  height: 200px;
+  width: 200px;
+}
+.bg-personal3 {
+  background-image: url(../img/IP3/assets/backgrounds/c_image.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+#for input {
+  background: transparent;
+}
+#for textarea{
+  background: transparent;
+}
