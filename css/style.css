@@ -1,30 +1,42 @@
 h1 {
-    color: whitesmoke;
+  color: whitesmoke;
 
-  }
-  p {
-    color: rgb(15, 14, 14);
-    font-family:sans-serif;
-    text-align: center;
-  }
-  body {
-    background-color: whitesmoke;
-    font-family:sans-serif;
-    text-align: center;
-  }
-  .bg-personal{
-      background-image: url(../img/IP3/assets/backgrounds/h_img.jpg);
-      height: 100vh;
-      background-size: cover;
-  }
-  .bg-personal2{
-    background-image: url(../img/IP3/assets/backgrounds/s_image.jpg);
-    height: 100vh;
-    background-size: cover;
 }
-#center-objects{
+
+p {
+  color: rgb(15, 14, 14);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bg-personal {
+  background-image: url(../img/IP3/assets/backgrounds/h_img.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+.bg-personal2 {
+  background-image: url(../img/IP3/assets/backgrounds/s_image.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+#center-objects {
   padding-top: 200px;
 }
-#top-objects{
+
+#top-objects {
   padding-top: 200px;
 }
+.id {
+height: 50px;
+width : 50px;
+}
+
+
