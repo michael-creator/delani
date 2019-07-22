@@ -34,9 +34,36 @@ body {
 #top-objects {
   padding-top: 200px;
 }
-.id {
-height: 50px;
-width : 50px;
-}
 
-
+#image1 {
+  height: 100px;
+  width: 100px;
+};
+#image2 {
+  height: 100px;
+  width: 100px;
+};
+#image3 {
+  height: 100px;
+  width: 100px;
+};
+#image4 {
+  height: 100px;
+  width: 100px;
+};
+#image5 {
+  height: 100px;
+  width: 100px;
+};
+#image6 {
+  height: 100px;
+  width: 100px;
+};
+#image7 {
+  height: 100px;
+  width: 100px;
+};
+#image8 {
+  height: 100px;
+  width: 100px;
+};
