@@ -35,6 +35,9 @@ body {
   color: white; 
   text-shadow: 1px 1px black;
 }
+.bg-personal2 h4{
+  color: white;
+}
 
 #center-objects {
   padding-top: 200px;
