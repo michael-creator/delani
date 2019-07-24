@@ -13,6 +13,21 @@ $(document).ready(function () {
                 $("#producticon").toggle();
                 $("#productdescription").toggle();
             })
+            $("#work8").hover(function () {
+                $(".caption8").fadeIn(250);
+            }, function () {
+                $(".caption8").fadeOut(250);
+            });
+            $("#work7").hover(function () {
+                $(".caption7").fadeIn(250);
+            }, function () {
+                $(".caption7").fadeOut(250);
+            });
+            $("#work6").hover(function () {
+                $(".caption6").fadeIn(250);
+            }, function () {
+                $(".caption6").fadeOut(250);
+            });
             $("#work5").hover(function () {
                 $(".caption5").fadeIn(250);
             }, function () {
