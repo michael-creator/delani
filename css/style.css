@@ -100,12 +100,48 @@ body {
 #productdescription {
   display: none;
 }
-.caption{
+
+.caption {
   display: none;
   position: absolute;
-  padding-left: 70px;
+  top: 45%;
+  left: 40%;
+  /* padding-left: 70px; */
   background-color: white;
 }
+
+.caption p {
+  padding: 15px 20px;
+}
+
+#work8 {
+  position: relative;
+}
+
+#work7 {
+  position: relative;
+}
+
+#work6 {
+  position: relative;
+}
+
 #work5 {
+  position: relative;
+}
+
+#work4 {
+  position: relative;
+}
+
+#work3 {
+  position: relative;
+}
+
+#work2 {
+  position: relative;
+}
+
+#work1 {
   position: relative;
 }
