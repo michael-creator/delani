@@ -89,6 +89,10 @@ body {
   background: transparent;
 }
 
+#trans {
+  background: transparent;
+}
+
 #designdescription {
   display: none;
 }
