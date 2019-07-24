@@ -37,44 +37,75 @@ body {
 
 #image1 {
   height: 200px;
-  width:200px;
+  width: 200px;
 }
+
 #image2 {
   height: 200px;
   width: 200px;
 }
+
 #image3 {
   height: 200px;
   width: 200px;
 }
+
 #image4 {
   height: 200px;
   width: 200px;
 }
+
 #image5 {
   height: 200px;
   width: 200px;
 }
+
 #image6 {
   height: 200px;
   width: 200px;
 }
+
 #image7 {
   height: 200px;
   width: 200px;
 }
+
 #image8 {
   height: 200px;
   width: 200px;
 }
+
 .bg-personal3 {
   background-image: url(../img/c_image.jpg);
   height: 100vh;
   background-size: cover;
 }
+
 #for input {
   background: transparent;
 }
-#for textarea{
+
+#for textarea {
   background: transparent;
+}
+
+#designdescription {
+  display: none;
+}
+
+#devdescription {
+  display: none;
+}
+
+#productdescription {
+  display: none;
+}
+.caption{
+  display: none;
+  position: absolute;
+  padding-left: 70px;
+  background-color: white;
+}
+#work5 {
+  position: relative;
 }
